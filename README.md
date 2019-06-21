@@ -1,4 +1,4 @@
-# ctrl-esc-key
+# Proposal: ctrl-esc-key
 ![ctrl-esc-key](https://user-images.githubusercontent.com/52068414/59911808-0cb62b00-9415-11e9-81f0-9d223ffb64d3.png)
 
 ## Motivation
