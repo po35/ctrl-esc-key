@@ -12,6 +12,6 @@ The goal is to get keyboard/notebook manufacturers to adopt this as a new standa
 - Nobody needs Caps Lock
 
 ## Next Steps
-In order to get started I created this repo. We can discuss here the spec, how we move on and if this idea has any potential. Please create issues and pull request on anything you like to see.
+In order to get started I created this repo. We can discuss here the spec, how we move on and if this idea has any potential. Please create issues and pull requests on anything you like to see.
 
-To get visibility with keyboard and notebook manufacturers we need to achieve any kind of critical mass: If you think this thing should transform into more than just an idea but a new standard pls contribute to this repo, star and/or fork.
+To get visibility with keyboard/notebook manufacturers we need to achieve any kind of critical mass: If you think this thing should transform into more than just an idea but a new standard pls contribute to this repo, star and/or fork.
