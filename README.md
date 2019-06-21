@@ -9,7 +9,7 @@ The goal is to get keyboard/notebook manufacturers to adopt this as a new standa
 
 - This change would work with all keyboard layouts, ANSI, ISO, any language, 60%, TKL, 104-key-boards
 - Apps don't remap Caps Lock out of the box, so no legacy software problems
-- Nobody needs Caps Lock
+- Nobody needs Caps Lock (manufacturers can put Caps Lock still on some function layer)
 
 ## Next Steps
 In order to get started I created this repo. We can discuss here the spec, how we move on and if this idea has any potential. Please create issues and pull requests on anything you like to see.
