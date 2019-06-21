@@ -2,7 +2,7 @@
 ![ctrl-esc-key](https://user-images.githubusercontent.com/52068414/59911808-0cb62b00-9415-11e9-81f0-9d223ffb64d3.png)
 
 ## Motivation
-This first thing I do on every new computer is to remap Caps Lock to Ctrl and Esc. Ctrl when the key is hold and Esc when tapped. This is an essential mapping with many use cases for coders but also for other users. Once your muscle memory got trained to this key typing gets buttersmooth like never before.
+This first thing I do on every new computer is to remap Caps Lock to Ctrl and Esc. **Ctrl when the key is hold and Esc when tapped.** This is an essential mapping with many use cases for coders but also for other users. Once your muscle memory got trained to this key typing gets buttersmooth like never before.
 
 ## Goal
 The goal is to get keyboard/notebook manufacturers to adopt this as a new standard on their keyboards. Why do we stick to something nobody is using? I know there are more things which could improved in a keyboard layout but let's start small:
