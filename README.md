@@ -1,4 +1,5 @@
 # ctrl-esc-key
+[ctrl-esc-key](https://user-images.githubusercontent.com/52068414/59911808-0cb62b00-9415-11e9-81f0-9d223ffb64d3.png)
 This first thing I do on every new computer is to map Caps Lock to Ctrl and Esc. Ctrl when the key is hold and Esc when tapped. This is an essential mapping with many use cases for coders but also for other users in contrast to Caps Lock.
 
 The goal should be to get keyboard and notebook manufacturers to adopt this as a new standard on their keyboards. Because why should we stick to something nobody uses. I know there more things which could optimized on a keyboard layout but this is the lowest hanging fruit:
